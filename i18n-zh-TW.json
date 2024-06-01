@@ -144,6 +144,8 @@
     "ui.condition.app.has.window.focus": "程式有視窗焦點",
     "ui.fact.method.hook": "Method hook",
     "ui.fact.method.hook.lifecycle": "Hook时机",
+    "ui.fact.method.hook.xposed.tip": "请在Xposed管理器中勾选目标应用",
+    "ui.fact.method.hook.package": "包名",
     "ui.fact.method.hook.class": "类名",
     "ui.fact.method.hook.method": "方法名",
     "ui.fact.method.hook.method.constraints": "限制",

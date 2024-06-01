@@ -144,6 +144,8 @@
     "ui.condition.app.has.window.focus": "App has window focus",
     "ui.fact.method.hook": "Method hook",
     "ui.fact.method.hook.lifecycle": "Lifecycle",
+    "ui.fact.method.hook.xposed.tip": "Remember to enable target App scope in Xposed Manager",
+    "ui.fact.method.hook.package": "Package name",
     "ui.fact.method.hook.class": "Class name",
     "ui.fact.method.hook.method": "Method name",
     "ui.fact.method.hook.method.constraints": "Constraints",
