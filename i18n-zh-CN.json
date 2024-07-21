@@ -627,6 +627,7 @@
     "ui.action.rect.src.select.screen": "选择屏幕区域",
     "ui.action.rect.src.rect": "输入屏幕区域",
     "ui.action.rect.src.rect.format": "格式为：left top right bottom",
+    "ui.action.rect.src.rect.format.error": "格式错误",
     "ui.title.mvel": "MVEL表达式",
     "ui.title.js": "Javascript",
     "ui.action.set.apm.mode": "设置飞行模式",
