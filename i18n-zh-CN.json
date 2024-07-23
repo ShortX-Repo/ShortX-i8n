@@ -661,6 +661,8 @@
     "ui.title.select.action": "选择动作",
     "ui.title.select.da": "选择指令",
     "ui.title.select.component": "选择组件",
+    "ui.action.show.float.window": "显示悬浮球",
+    "ui.action.hide.float.window": "隐藏悬浮球",
     "ui.action.hide.overlay": "隐藏悬浮工具",
     "ui.action.hide.all.overlay": "隐藏所有悬浮工具",
     "ui.action.show.overlay": "显示悬浮工具",
