@@ -634,7 +634,7 @@
     "ui.action.rect.src.path": "Local photo",
     "ui.action.rect.src.select.screen": "Select screen area",
     "ui.action.rect.src.rect": "Input Rect",
-    "ui.action.rect.src.rect.format": "Format: left top right bottom",
+    "ui.action.rect.src.rect.format": "Format: left top right bottom \nYou can create a Rule and use the select screen area action to capture the area",
     "ui.action.rect.src.rect.format.error": "Format error",
     "ui.title.mvel": "MVEL expression",
     "ui.title.js": "JS",
