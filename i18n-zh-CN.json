@@ -566,6 +566,7 @@
     "ui.action.display.image.url": "输入图片地址",
     "ui.action.display.image.scale.type": "缩放类型",
     "ui.condition.has.found.points.by.color": "找到颜色",
+    "ui.condition.text.from.screen.node.matches": "匹配视图文本",
     "ui.action.find.color": "查找颜色",
     "ui.action.find.color.click": "查找颜色并点击",
     "ui.action.find.color.image": "图片",

@@ -546,6 +546,7 @@
     "ui.action.display.image.url": "Input image url",
     "ui.action.display.image.scale.type": "Scale type",
     "ui.condition.has.found.points.by.color": "Has found color",
+    "ui.condition.text.from.screen.node.matches": "View text matches",
     "ui.action.find.color": "Find color",
     "ui.action.find.color.click": "Find color click",
     "ui.action.find.color.image": "Image",
