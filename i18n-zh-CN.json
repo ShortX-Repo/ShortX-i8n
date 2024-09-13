@@ -716,7 +716,7 @@
     "ui.action.launch.app": "打开应用",
     "ui.action.launch.app.by.pkg": "打开应用（动态）",
     "ui.action.start.activity": "启动活动",
-    "ui.action.start.activity.intent": "启动活动（Intent）",
+    "ui.action.start.activity.intent": "启动Intent",
     "ui.action.start.activity.url.schema": "启动活动（URL Schema）",
     "ui.action.start.activity.intent.uri": "启动活动（Intent Uri）",
     "ui.action.set.ringer.mode": "设置铃音模式",
