@@ -977,6 +977,7 @@
     "ui.action.remote": "Online",
     "ui.action.all": "All",
     "ui.action.recent": "Recent",
+    "ui.action.recent.apps": "Recent apps",
     "ui.action.ringtone": "Play ringtone",
     "ui.action.download.file": "Download file",
     "ui.action.download.file.url": "Url",
