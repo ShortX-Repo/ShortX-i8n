@@ -962,7 +962,7 @@
     "ui.action.dialog.button.text": "Button text",
     "ui.action.show.list.dialog": "Show list dialog",
     "ui.action.show.list.dialog.data": "List data",
-    "ui.action.show.list.dialog.data.summary": "List items string, joined with ','  \ne.g. A,B,C",
+    "ui.action.show.list.dialog.data.summary": "List items string, can be spilt with delimiters  \ne.g. A,B,C",
     "ui.action.show.list.dialog.delimiters": "Delimiters",
     "ui.action.show.list.dialog.delimiters.summary": "One or more strings to be used as delimiters.",
     "ui.action.show.list.dialog.is.multiple": "Multiple choices",
