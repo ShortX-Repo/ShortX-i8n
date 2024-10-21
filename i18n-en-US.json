@@ -1268,5 +1268,9 @@
     "ui.rule.ins.id.gen.default.description": "By default, same rule use the same unique id",
     "ui.rule.ins.id.gen.string.description": "Dynamic string, support global var and context data",
     "ui.rule.action.secure.warning.title": "Suggest checking the action",
-    "ui.rule.action.secure.warning.message": ""
+    "ui.rule.action.secure.warning.message": "",
+    "ui.rule.action.lego": "Custom UI",
+    "ui.rule.action.lego.component": "Component",
+    "ui.rule.action.lego.container": "Container",
+    "ui.rule.action.lego.preview": "Preview"
 }

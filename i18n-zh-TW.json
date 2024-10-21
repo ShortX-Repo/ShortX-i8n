@@ -1265,5 +1265,9 @@
     "ui.rule.ins.id.gen.default.description": "自動為每個指令分配固定的獨一無二的ID",
     "ui.rule.ins.id.gen.string.description": "動態ID，支持引用變數",
     "ui.rule.action.secure.warning.title": "建議檢查動作",
-    "ui.rule.action.secure.warning.message": "請仔細檢查每個動作是否包含惡意操作，尤其是MVEL，Shell，JS動作"
+    "ui.rule.action.secure.warning.message": "請仔細檢查每個動作是否包含惡意操作，尤其是MVEL，Shell，JS動作",
+    "ui.rule.action.lego": "自定义UI",
+    "ui.rule.action.lego.component": "组件",
+    "ui.rule.action.lego.container": "容器",
+    "ui.rule.action.lego.preview": "预览"
 }
