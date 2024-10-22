@@ -29,6 +29,7 @@
     "ui.conditions.eva.local.var": "Check local var",
     "ui.conditions.screen.on": "Screen is ON",
     "ui.conditions.screen.on.time": "Screen on time",
+    "ui.conditions.screen.on.time.seconds": "Seconds",
     "ui.conditions.screen.on.time.ScreenOnTimeStartFrom_LastScreenOff": "From last screen off - on",
     "ui.conditions.screen.on.time.ScreenOnTimeStartFrom_SystemReady": "From device booted",
     "ui.conditions.screen.locked": "Screen is locked",

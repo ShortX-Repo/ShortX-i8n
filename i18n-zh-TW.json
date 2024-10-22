@@ -34,6 +34,7 @@
     "ui.conditions.has.audio.focus": "程式正在播放音訊",
     "ui.conditions.screen.on": "螢幕亮着",
     "ui.conditions.screen.on.time": "亮屏时间",
+    "ui.conditions.screen.on.time.seconds": "秒",
     "ui.conditions.screen.on.time.ScreenOnTimeStartFrom_LastScreenOff": "自上次灭屏后亮屏时间",
     "ui.conditions.screen.on.time.ScreenOnTimeStartFrom_SystemReady": "自开机以来亮屏时间",
     "ui.conditions.screen.locked": "螢幕已鎖",
