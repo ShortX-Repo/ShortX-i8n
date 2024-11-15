@@ -1289,5 +1289,12 @@
     "ui.rule.action.lego": "Custom UI",
     "ui.rule.action.lego.component": "Component",
     "ui.rule.action.lego.container": "Container",
-    "ui.rule.action.lego.preview": "Preview"
+    "ui.rule.action.lego.preview": "Preview",
+    "ui.settings.webdav.profile": "Webdav profile",
+    "ui.settings.webdav.profile.description": "Manage your webdav profiles",
+    "ui.settings.webdav.profile.alias": "Alias (optional)",
+    "ui.settings.webdav.profile.url": "Url",
+    "ui.settings.webdav.profile.user.name": "User name",
+    "ui.settings.webdav.profile.password": "Password",
+    "ui.action.webdav": "Webdav"
 }
