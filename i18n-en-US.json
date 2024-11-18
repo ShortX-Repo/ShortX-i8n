@@ -1296,5 +1296,8 @@
     "ui.settings.webdav.profile.url": "Url",
     "ui.settings.webdav.profile.user.name": "User name",
     "ui.settings.webdav.profile.password": "Password",
-    "ui.action.webdav": "Webdav"
+    "ui.action.webdav": "Webdav",
+    "ui.action.web.dav.list": "Webdav list",
+    "ui.action.web.dav.get": "Webdav get",
+    "ui.action.web.dav.get.dest.path": "Destination file path"
 }
