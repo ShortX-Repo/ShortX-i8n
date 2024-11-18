@@ -1299,5 +1299,11 @@
     "ui.action.webdav": "Webdav",
     "ui.action.web.dav.list": "Webdav list",
     "ui.action.web.dav.get": "Webdav get",
-    "ui.action.web.dav.get.dest.path": "Destination file path"
+    "ui.action.web.dav.get.dest.path": "Destination file path",
+    "ui.action.for.each": "For each",
+    "ui.action.for.each.data": "Data",
+    "ui.action.for.each.delimiters": "Data delimiters",
+    "ui.action.for.each.action": "Actions",
+    "ui.action.for.each.action.context.data.loop.index": "You can access loop index via {index}",
+    "ui.action.for.each.action.context.data.loop.data": "You can access loop data via {data}"
 }
