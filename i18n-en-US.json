@@ -1188,7 +1188,7 @@
     "ui.global.var.secrets.message": "A secret Global var will be encryped on peristent, and it can not backup/restore",
     "ui.global.var.created.by.user": "Manually",
     "ui.global.var.created.by.rule": "By {rule}",
-    "ui.local.var.title": "Global var",
+    "ui.local.var.title": "Local var",
     "ui.local.var.name": "Var name",
     "ui.local.var.name.description": "Please use English name, name will be used when Write/read a var\nName is unique",
     "ui.local.var.value": "Var value",
